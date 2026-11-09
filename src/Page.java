@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public class Page {
+public interface Page {
+    String build();
 }
